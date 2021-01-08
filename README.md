@@ -1,1 +1,1 @@
-[![Liebkne's github stats](https://github-readme-stats.vercel.app/api?username=liebkne)](https://github.com/anuraghazra/github-readme-stats)
+[![Liebkne's github stats](https://github-readme-stats.vercel.app/api?username=liebkne&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
